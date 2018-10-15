@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C6A111172175524300E9D495 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6A111162175524300E9D495 /* Color.swift */; };
+		C6A11119217558AA00E9D495 /* ColorDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6A11118217558AA00E9D495 /* ColorDetailViewController.swift */; };
 		C6A822E8215D47DD00684980 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6A822E7215D47DD00684980 /* AppDelegate.swift */; };
 		C6A822ED215D47DD00684980 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6A822EB215D47DD00684980 /* Main.storyboard */; };
 		C6A822EF215D47DE00684980 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6A822EE215D47DE00684980 /* Assets.xcassets */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C6A111162175524300E9D495 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		C6A11118217558AA00E9D495 /* ColorDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailViewController.swift; sourceTree = "<group>"; };
 		C6A822E4215D47DD00684980 /* Colors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Colors.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6A822E7215D47DD00684980 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C6A822EC215D47DD00684980 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -60,6 +64,8 @@
 				C6A822EE215D47DE00684980 /* Assets.xcassets */,
 				C6A822F0215D47DE00684980 /* LaunchScreen.storyboard */,
 				C6A822F3215D47DE00684980 /* Info.plist */,
+				C6A111162175524300E9D495 /* Color.swift */,
+				C6A11118217558AA00E9D495 /* ColorDetailViewController.swift */,
 			);
 			path = Colors;
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			files = (
 				C6A822FA215D791400684980 /* ColorsViewController.swift in Sources */,
 				C6A822E8215D47DD00684980 /* AppDelegate.swift in Sources */,
+				C6A111172175524300E9D495 /* Color.swift in Sources */,
+				C6A11119217558AA00E9D495 /* ColorDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
